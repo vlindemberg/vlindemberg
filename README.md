@@ -1,4 +1,4 @@
-## Olá! eu sou Vinicius Lindemberg, Android Engineer no Picpay!
+##Hey! I'm Vinicius Lindemberg, Android Engineer at Picpay!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
